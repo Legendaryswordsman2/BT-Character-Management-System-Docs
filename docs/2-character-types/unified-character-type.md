@@ -1,0 +1,4 @@
+# Unified Character Type
+To create a Unified Character Type right click the **Project** window and navigate to **Create > BlazerTech Character Management System > Unfied Character Type**
+
+![Create Unified Character Type](../photos/create-unified-character-type.PNG)
