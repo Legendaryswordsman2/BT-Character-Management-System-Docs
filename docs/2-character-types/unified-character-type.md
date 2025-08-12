@@ -5,4 +5,4 @@ To create a Unified Character Type right click the **Project** window and naviga
 
 ---
 
-No new fields have been included. refer to [Character Type base](character-type-base.md)
+No new fields have been included. refer to [Character Type Base](character-type-base.md)

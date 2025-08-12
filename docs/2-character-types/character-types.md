@@ -11,10 +11,10 @@ All Character Types inherit from [CharacterTypeBaseSO](character-type-base.md), 
 
 ## Character Type Variants
 
-| Variant   | Appearance Storage | Customization | Best For |
+| Variant   | Modularity | Runtime Customization | Best For |
 |-----------|--------------------|---------------|----------|
 | **Unified** | Single spritesheet | None | Pre-rendered, fixed characters |
-| **Layered** | Multiple spritesheets layered | High | Modular, editable characters |
+| **Layered** | Layered spritesheets | High | Modular, editable characters |
 
 ---
 
