@@ -4,6 +4,9 @@ The **`CharacterTypeBaseSO`** class defines a base configuration asset for all c
 
 ## Fields
 
+!!! warning
+    This is a **warning** message. Be careful with this!
+
 ### `CharacterTypeID`
 - **Type:** `string`
 - **Attributes:** `[SerializeField]`, `[Tooltip]`, `[BoxGroup("Settings")]`
@@ -34,5 +37,5 @@ The **`CharacterTypeBaseSO`** class defines a base configuration asset for all c
 ## Methods
 
 ### `IsValidCharacterSpriteSheet(Sprite sprite) → bool`
-Checks if a given sprite matches the **width and height** of the `BaseSpritesheet`.
+Checks if a given sprite matches the **width and height** of the `BaseSpritesheet`.  
 - **Returns:** `true` if the sprite size matches; otherwise `false`.

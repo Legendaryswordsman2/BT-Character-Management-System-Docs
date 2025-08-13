@@ -1,3 +1,60 @@
 site_name: BlazerTech Character Management System Docs
+theme:
+  name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: indigo
+      accent: deep purple
 
-theme: readthedocs
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+  features:
+      - navigation.sections
+      - navigation.instant
+      - navigation.footer
+  
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  
+
+
+
+# theme:
+#   name: material
+#   language: en
+#   palette:
+#     - scheme: default
+#       primary: indigo
+#       accent: indigo
+#     - scheme: slate
+#       primary: indigo
+#       accent: indigo
+#       toggle:
+#         icon: material/weather-night
+#         name: Switch to dark mode
+#   features:
+#     - navigation.sections
+#     - navigation.instant
+#     - content.code.annotate
+
+# markdown_extensions:
+#   - admonition
