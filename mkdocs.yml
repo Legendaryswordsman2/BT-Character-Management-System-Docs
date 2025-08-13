@@ -23,6 +23,7 @@ theme:
       - navigation.footer
   
 markdown_extensions:
+  - attr_list 
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -35,26 +36,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   
-
-
-
-# theme:
-#   name: material
-#   language: en
-#   palette:
-#     - scheme: default
-#       primary: indigo
-#       accent: indigo
-#     - scheme: slate
-#       primary: indigo
-#       accent: indigo
-#       toggle:
-#         icon: material/weather-night
-#         name: Switch to dark mode
-#   features:
-#     - navigation.sections
-#     - navigation.instant
-#     - content.code.annotate
-
-# markdown_extensions:
-#   - admonition
+extra_css:
+  - custom.css

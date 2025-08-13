@@ -2,10 +2,9 @@
 
 The **`CharacterTypeBaseSO`** class defines a base configuration asset for all character types.
 
-## Fields
+---
 
-!!! warning
-    This is a **warning** message. Be careful with this!
+## Fields
 
 ### `CharacterTypeID`
 - **Type:** `string`
