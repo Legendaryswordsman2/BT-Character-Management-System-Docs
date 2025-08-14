@@ -1,4 +1,9 @@
 site_name: BlazerTech Character Management System Docs
+
+plugins:
+  - search
+  - autorefs:
+
 theme:
   name: material
   palette:
@@ -21,6 +26,7 @@ theme:
       - navigation.sections
       - navigation.instant
       - navigation.footer
+
   
 markdown_extensions:
   - attr_list 
