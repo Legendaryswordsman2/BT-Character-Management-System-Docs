@@ -1,8 +1,6 @@
 # Unified Character Type
 
-The Unified Character Type Inherits from [CharacterTypeBaseSO](character-type-base.md)  
-
-## test
+The Unified Character Type Inherits from [CharacterTypeBaseSO](character-type-base.md)
 
 ## Creating a New Unifed Character Type
 
@@ -17,12 +15,14 @@ To create a Unified Character Type right click the **Project** window and naviga
 
 | Fields                | Description|
 |-----------------------|-----------:|
-| [Character Type ID](character-type-fields/character-type-id.md)     | A **Unique** Identifer
-| Base Spritesheet                                                    | The default character spritesheet
-| Character Controller                                                | The Animator Controller used
+| [Character Type ID][character-type-id]       | A **Unique** Identifer
+| [Base Spritesheet][base-spritesheet]         | The default character spritesheet
+| [Character Controller][character-controller] | The Animator Controller used
 
 ![](../photos/unified-character-type.png)
 
 <!-- All required fields are from the base class. No new ones are added. -->
 
-Link to [Hello, World!](#test)
+Link to [Hello, World!](Installation)
+
+[Installerhation][installation]
