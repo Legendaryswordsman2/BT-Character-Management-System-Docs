@@ -1,15 +1,7 @@
 # Unified Character Type
 
-The Unified Character Type Inherits from [CharacterTypeBaseSO](character-type-base.md)
+`UnifiedCharacterTypeSO` Inherits from [CharacterTypeBaseSO](character-type-base.md).
 
-## Creating a New Unifed Character Type
-
-To create a Unified Character Type right click the **Project** window and navigate to  
- **`Create > BlazerTech Character Management System > Unified Character Type`**
-
-![Create Unified Character Type](../photos/create-unified-character-type.png)
-
----
 ## Unified Character Type Fields
 
 
@@ -21,8 +13,11 @@ To create a Unified Character Type right click the **Project** window and naviga
 
 ![](../photos/unified-character-type.png)
 
-<!-- All required fields are from the base class. No new ones are added. -->
+---
 
-Link to [Hello, World!](Installation)
+## Creating a New Unifed Character Type
 
-[Installerhation][installation]
+To create a Unified Character Type right click the **Project** window and navigate to  
+ **`Create > BlazerTech Character Management System > Unified Character Type`**
+
+![Create Unified Character Type](../photos/create-unified-character-type.png)
