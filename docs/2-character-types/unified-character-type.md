@@ -2,10 +2,10 @@
 
 `UnifiedCharacterTypeSO` Inherits from [CharacterTypeBaseSO](character-type-base.md).
 
-## Unified Character Type Fields
+## Base Character Type Fields
 
 
-| Fields                | Description|
+| Field                | Description|
 |-----------------------|-----------:|
 | [Character Type ID][character-type-id]       | A **Unique** Identifer
 | [Base Spritesheet][base-spritesheet]         | The default character spritesheet
